@@ -1,0 +1,14 @@
+{
+  "name": "book-crud-mongodb",
+  "version": "1.0.0",
+  "description": "Simple learner level Node.js MongoDB CRUD project for books",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node app.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongoose": "^9.9.3",
+    "nodemon": "^3.1.14"
+  }
+}
